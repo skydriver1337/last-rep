@@ -16,24 +16,24 @@
          <hr>
          <div class="name">
             Основныые Интрументы
-         </div>
-         <p class="subtitle">Тетирование WEB-приложений p>
-         </p>
-         <p class="location" align="center">
-            <a href="html/cmd.html">Командная строка Windos</a>
-         </p>
-         <p class="location" align="center">
-            <a href="html/mac.html">Терминал MacOS</a>
-         </p>
-          <p class="location" align="center">
-            <a href="html/git.html">Git</a>
+         <div>
+         <p> class="subtitle">Тетирование WEB-приложений <p>
+         <p>
+         <p> class="location" align="center"<p>
+            <a> href="html/cmd.html">Командная строка Windos<a>
+         <p>
+         <p> class="location" align="center"<p>
+            <a> href="html/mac.html">Терминал MacOS<a>
+         <p>
+          <p> class="location" align="center" <p>
+            <a> href="html/git.html">Git<a>
          <p>
          <p> <br>
-         </p>
-      </div>
-      <!--footer-->
+         <p>
+      <div>
+      <--footer-->
       <footer class="animated fadeIn">
          &copy; 2024. SkyPro
-      </footer>
+      <footer>
    <body>
-</html>
+<html>
